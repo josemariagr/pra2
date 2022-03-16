@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{font-size: 80%;}
+
+#titulo {background-color: yellow; text-align: center;}
+
+div#cabecera  p {background-color: cyan; text-align: center;}
+
+#oculta {display: none; border: dashed thin; background-color:yellow; 
+color:red; text-align: center; font-family:courier; font-size:2em;}
+
+h1{background-color: silver;}
+
+#columna1{float: left; width: 25%; margin: 0.5em;}
+
+.flotante{float:left;}
+
+#columna2, #columna3{float: left; width: 35%; margin: 0.5em;}
+
+#baseweb {clear: left; border-top: solid;}
